@@ -1,0 +1,14 @@
+{
+  "name": "image-response-express-node",
+  "version": "1.0.0",
+  "description": "Returns an image on accessing the / URL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Banee Ishaque K",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
